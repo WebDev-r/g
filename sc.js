@@ -1,3 +1,4 @@
+alert("yes")
 var data=[];
 window.addEventListener("load",()=>fetchNews("india"));
 
